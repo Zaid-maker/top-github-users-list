@@ -10,7 +10,7 @@ jobs:
     name: Github Active Users
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@3
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.CUSTOM_TOKEN }}
