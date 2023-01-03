@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` and `private contributions` by users in France on `2022/12/26 10:12 AM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` and `private contributions` by users in France on `2023/1/3 1:19 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `9 users`  in France. You need at least `4069 followers` to be on this list.
+There are `9 users`  in France. You need at least `4071 followers` to be on this list.
 
 <table>
 	<tr>
@@ -116,8 +116,8 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>Symfony/platform.sh/ </td>
 		<td><a href="https://twitter.com/fabpot">fabpot</a></td>
 		<td>Lille, France</td>
-		<td>5377</td>
-		<td>8422</td>
+		<td>5674</td>
+		<td>8591</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>Lichess.org </td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>4824</td>
-		<td>6431</td>
+		<td>4777</td>
+		<td>6275</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>@marmelab  </td>
 		<td>No Twitter Username</td>
 		<td>Nancy, France</td>
-		<td>2574</td>
-		<td>3613</td>
+		<td>2550</td>
+		<td>3598</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,7 +158,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/posva">posva</a></td>
 		<td>Paris </td>
-		<td>2084</td>
+		<td>2109</td>
 		<td>2319</td>
 	</tr>
 	<tr>
@@ -172,25 +172,11 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Akryum">Akryum</a></td>
 		<td>France</td>
-		<td>1870</td>
-		<td>1870</td>
+		<td>1830</td>
+		<td>1830</td>
 	</tr>
 	<tr>
 		<td>6</td>
-		<td>
-			<a href="https://github.com/rougier">
-				<img src="https://avatars.githubusercontent.com/u/327203?s=72&v=4" width="24" alt="Avatar of rougier"> rougier
-			</a><br/>
-			Nicolas P. Rougier
-		</td>
-		<td>@inria  </td>
-		<td><a href="https://twitter.com/NPRougier">NPRougier</a></td>
-		<td>Bordeaux, France</td>
-		<td>668</td>
-		<td>673</td>
-	</tr>
-	<tr>
-		<td>7</td>
 		<td>
 			<a href="https://github.com/brunosimon">
 				<img src="https://avatars.githubusercontent.com/u/5439991?s=72&u=d7f9a046776f0960769c8d90ca8ced4d896c8e6a&v=4" width="24" alt="Avatar of brunosimon"> brunosimon
@@ -201,7 +187,21 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td><a href="https://twitter.com/bruno_simon">bruno_simon</a></td>
 		<td>Paris</td>
 		<td>96</td>
-		<td>663</td>
+		<td>687</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/rougier">
+				<img src="https://avatars.githubusercontent.com/u/327203?s=72&v=4" width="24" alt="Avatar of rougier"> rougier
+			</a><br/>
+			Nicolas P. Rougier
+		</td>
+		<td>@inria  </td>
+		<td><a href="https://twitter.com/NPRougier">NPRougier</a></td>
+		<td>Bordeaux, France</td>
+		<td>662</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -214,8 +214,8 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montpellier</td>
-		<td>502</td>
-		<td>502</td>
+		<td>488</td>
+		<td>488</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>37</td>
-		<td>37</td>
+		<td>38</td>
+		<td>38</td>
 	</tr>
 </table>
 

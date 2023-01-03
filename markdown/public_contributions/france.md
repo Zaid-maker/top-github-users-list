@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` by users in France on `2022/12/26 10:12 AM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` by users in France on `2023/1/3 1:19 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `9 users`  in France. You need at least `4069 followers` to be on this list.
+There are `9 users`  in France. You need at least `4071 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>Symfony/platform.sh/ </td>
 		<td><a href="https://twitter.com/fabpot">fabpot</a></td>
 		<td>Lille, France</td>
-		<td>5377</td>
+		<td>5674</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>Lichess.org </td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>4824</td>
+		<td>4777</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>@marmelab  </td>
 		<td>No Twitter Username</td>
 		<td>Nancy, France</td>
-		<td>2574</td>
+		<td>2550</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/posva">posva</a></td>
 		<td>Paris </td>
-		<td>2084</td>
+		<td>2109</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Akryum">Akryum</a></td>
 		<td>France</td>
-		<td>1870</td>
+		<td>1830</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>@inria  </td>
 		<td><a href="https://twitter.com/NPRougier">NPRougier</a></td>
 		<td>Bordeaux, France</td>
-		<td>668</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montpellier</td>
-		<td>502</td>
+		<td>488</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -219,7 +219,7 @@ There are `9 users`  in France. You need at least `4069 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>37</td>
+		<td>38</td>
 	</tr>
 </table>
 
