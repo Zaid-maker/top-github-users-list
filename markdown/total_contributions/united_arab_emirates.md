@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/1/7 5:07 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/1/13 5:07 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -130,8 +130,8 @@ There are `37 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>77</td>
-		<td>85</td>
+		<td>80</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `37 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>39</td>
-		<td>39</td>
+		<td>44</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `37 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>2</td>
-		<td>35</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -186,8 +186,8 @@ There are `37 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>18</td>
-		<td>18</td>
+		<td>20</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -200,8 +200,8 @@ There are `37 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>11</td>
-		<td>11</td>
+		<td>18</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>8</td>
