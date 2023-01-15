@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonia">
 </a>
 
-The `number of followers` of users in Estonia on `2023/1/9 11:12 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
+The `number of followers` of users in Estonia on `2023/1/15 11:11 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -115,7 +115,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/raunofreiberg">raunofreiberg</a></td>
 		<td>Estonia</td>
-		<td>1819</td>
+		<td>1835</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Emailengine.app </td>
 		<td><a href="https://twitter.com/andrisreinman">andrisreinman</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>1140</td>
+		<td>1142</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Veriff </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
-		<td>983</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tuupola">tuupola</a></td>
 		<td>Finland,  Thailand, Estonia</td>
-		<td>897</td>
+		<td>894</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>@bolteu  </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
-		<td>751</td>
+		<td>750</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>@twilio </td>
 		<td><a href="https://twitter.com/s4kibs4mi">s4kibs4mi</a></td>
 		<td>Tallinn</td>
-		<td>630</td>
+		<td>633</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -245,7 +245,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/trevorlasn">trevorlasn</a></td>
 		<td>Tartu, Estonia</td>
-		<td>406</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -284,7 +284,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>335</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>@nevercodehq </td>
 		<td><a href="https://twitter.com/tahatesser">tahatesser</a></td>
 		<td>Tartu, Estonia</td>
-		<td>295</td>
+		<td>296</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -336,7 +336,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Https://www.atomicja </td>
 		<td><a href="https://twitter.com/shelajev">shelajev</a></td>
 		<td>Tartu, Estonia</td>
-		<td>275</td>
+		<td>276</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -375,7 +375,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Haamer Ventures Oü </td>
 		<td><a href="https://twitter.com/krishaamer">krishaamer</a></td>
 		<td>Estonia / Portugal / Sao Tomé / Taiwan</td>
-		<td>223</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>217</td>
+		<td>218</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -427,7 +427,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Tallinn University Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>188</td>
+		<td>187</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -453,7 +453,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Originalmy.com </td>
 		<td><a href="https://twitter.com/eddieoz">eddieoz</a></td>
 		<td>Tallinn - Estonia</td>
-		<td>184</td>
+		<td>185</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -479,7 +479,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>@wube  </td>
 		<td><a href="https://twitter.com/sanquii">sanquii</a></td>
 		<td>Czechia | Estonia</td>
-		<td>166</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -601,6 +601,19 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/aivarannamaa">
+				<img src="https://avatars.githubusercontent.com/u/1802?s=72&v=4" width="24" alt="Avatar of aivarannamaa"> aivarannamaa
+			</a><br/>
+			Aivar Annamaa
+		</td>
+		<td>Cybernetica </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/Dew25">
 				<img src="https://avatars.githubusercontent.com/u/14212728?s=72&u=c436fcccfcdd9eba833422e8d7d8c5be597b9b6a&v=4" width="24" alt="Avatar of Dew25"> Dew25
 			</a><br/>
@@ -612,7 +625,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/iapicca">
 				<img src="https://avatars.githubusercontent.com/u/45637986?s=72&u=76e7fa8de7fd0b97073519fa7a88027643fa3c15&v=4" width="24" alt="Avatar of iapicca"> iapicca
@@ -622,10 +635,10 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yakforward">yakforward</a></td>
 		<td>Tartu, Estonia</td>
-		<td>132</td>
+		<td>133</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/ozasadnyy">
 				<img src="https://avatars.githubusercontent.com/u/2954281?s=72&u=4041eaea06d02056c3b8ff0096b3adcffe23e1ec&v=4" width="24" alt="Avatar of ozasadnyy"> ozasadnyy
@@ -635,19 +648,6 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Jigger </td>
 		<td><a href="https://twitter.com/ozasadnyy">ozasadnyy</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/aivarannamaa">
-				<img src="https://avatars.githubusercontent.com/u/1802?s=72&v=4" width="24" alt="Avatar of aivarannamaa"> aivarannamaa
-			</a><br/>
-			Aivar Annamaa
-		</td>
-		<td>Cybernetica </td>
-		<td>No Twitter Username</td>
-		<td>Tartu, Estonia</td>
 		<td>130</td>
 	</tr>
 	<tr>
@@ -674,10 +674,23 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Aysa Ou </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
-		<td>127</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>45</td>
+		<td>
+			<a href="https://github.com/cyberalien">
+				<img src="https://avatars.githubusercontent.com/u/822287?s=72&u=f007c6172193aec38c5c8c28a0c453873304d669&v=4" width="24" alt="Avatar of cyberalien"> cyberalien
+			</a><br/>
+			Vjacheslav Trushkin
+		</td>
+		<td>@iconify  </td>
+		<td><a href="https://twitter.com/slava_trushkin">slava_trushkin</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/taivop">
 				<img src="https://avatars.githubusercontent.com/u/5147210?s=72&u=74071a7af0a53890c562dff974752e7fb688e912&v=4" width="24" alt="Avatar of taivop"> taivop
@@ -690,19 +703,6 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/cyberalien">
-				<img src="https://avatars.githubusercontent.com/u/822287?s=72&u=f007c6172193aec38c5c8c28a0c453873304d669&v=4" width="24" alt="Avatar of cyberalien"> cyberalien
-			</a><br/>
-			Vjacheslav Trushkin
-		</td>
-		<td>@iconify  </td>
-		<td><a href="https://twitter.com/slava_trushkin">slava_trushkin</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>125</td>
-	</tr>
-	<tr>
 		<td>47</td>
 		<td>
 			<a href="https://github.com/moll">
@@ -713,7 +713,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Monday Calendar </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>120</td>
+		<td>121</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -726,7 +726,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>Veronalabs Oü </td>
 		<td><a href="https://twitter.com/mostafa_soufi">mostafa_soufi</a></td>
 		<td>Estonia</td>
-		<td>119</td>
+		<td>117</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -788,8 +788,8 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 			</a><br/>
 			MohammadReza Salari
 		</td>
-		<td>Azolver </td>
-		<td>No Twitter Username</td>
+		<td>Mountbirch Oü </td>
+		<td><a href="https://twitter.com/slr_mrz">slr_mrz</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>110</td>
 	</tr>
@@ -861,19 +861,6 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/Quube-Exchange-2019">
-				<img src="https://avatars.githubusercontent.com/u/53843594?s=72&u=85d057ae14048d9abb7c494cfc1ef58e2c8c497d&v=4" width="24" alt="Avatar of Quube-Exchange-2019"> Quube-Exchange-2019
-			</a><br/>
-			QUUBE Exchange
-		</td>
-		<td>Quantumwarriors Oü </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/pongstr">
 				<img src="https://avatars.githubusercontent.com/u/962502?s=72&u=72874025f74a3350b722a06f96959ad60ddef101&v=4" width="24" alt="Avatar of pongstr"> pongstr
 			</a><br/>
@@ -885,7 +872,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/saadismail">
 				<img src="https://avatars.githubusercontent.com/u/11972404?s=72&u=ac7272ce7861cc594dddf4964ca90079ecb55a69&v=4" width="24" alt="Avatar of saadismail"> saadismail
@@ -898,7 +885,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/raydac">
 				<img src="https://avatars.githubusercontent.com/u/3008810?s=72&u=d283b5c4aa7009f73df8a5c07afbae8a860ef172&v=4" width="24" alt="Avatar of raydac"> raydac
@@ -911,7 +898,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/ali-zahedi">
 				<img src="https://avatars.githubusercontent.com/u/5299864?s=72&u=0227aed8acfa59fe1f25bf2eea47df5304bba203&v=4" width="24" alt="Avatar of ali-zahedi"> ali-zahedi
@@ -922,6 +909,19 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>97</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/lkraav">
+				<img src="https://avatars.githubusercontent.com/u/147228?s=72&v=4" width="24" alt="Avatar of lkraav"> lkraav
+			</a><br/>
+			Leho Kraav
+		</td>
+		<td>Conversion Ready </td>
+		<td><a href="https://twitter.com/lkraav">lkraav</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -939,19 +939,6 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/lkraav">
-				<img src="https://avatars.githubusercontent.com/u/147228?s=72&v=4" width="24" alt="Avatar of lkraav"> lkraav
-			</a><br/>
-			Leho Kraav
-		</td>
-		<td>Conversion Ready </td>
-		<td><a href="https://twitter.com/lkraav">lkraav</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
 			<a href="https://github.com/battlesnake">
 				<img src="https://avatars.githubusercontent.com/u/4949354?s=72&u=50cbb2d571715b36ed860b03107e492f1b35ceb0&v=4" width="24" alt="Avatar of battlesnake"> battlesnake
 			</a><br/>
@@ -963,7 +950,7 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/simonoff">
 				<img src="https://avatars.githubusercontent.com/u/14304?s=72&u=111008c791bcdbd3aa39ae70fa319ae38ecffd36&v=4" width="24" alt="Avatar of simonoff"> simonoff
@@ -973,7 +960,20 @@ There are `68 users`  in Estonia. You need at least `87 followers` to be on this
 		<td>@amoniacou  </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>91</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/77ccreed">
+				<img src="https://avatars.githubusercontent.com/u/32397184?s=72&u=78ead5e5bd93b0eeb2802eb81996f9caa3064629&v=4" width="24" alt="Avatar of 77ccreed"> 77ccreed
+			</a><br/>
+			Kiur Jullis
+		</td>
+		<td>Oü Kodulehe Tellimine </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>87</td>
 	</tr>
 	<tr>
 		<td>68</td>
