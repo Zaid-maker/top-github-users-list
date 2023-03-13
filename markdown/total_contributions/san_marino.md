@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2023/3/7 9:09 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2023/3/13 9:09 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -117,24 +117,10 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino / Milano</td>
 		<td>39</td>
-		<td>1972</td>
+		<td>1980</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/N1K0232">
-				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=4bc5d82b7a4770eada2420d5f7c54edfa888fc8a&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
-			</a><br/>
-			Nico
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
-		<td>Repubblica di San Marino</td>
-		<td>1287</td>
-		<td>1313</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/CastFX">
 				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4" width="24" alt="Avatar of CastFX"> CastFX
@@ -144,11 +130,11 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>59</td>
-		<td>1119</td>
+		<td>61</td>
+		<td>1109</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>3</td>
 		<td>
 			<a href="https://github.com/mikyll">
 				<img src="https://avatars.githubusercontent.com/u/56556806?s=72&u=dd1937608736f28dfe1cf3d7830aa80014333d31&v=4" width="24" alt="Avatar of mikyll"> mikyll
@@ -158,8 +144,22 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>815</td>
-		<td>1091</td>
+		<td>824</td>
+		<td>1090</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/N1K0232">
+				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=4bc5d82b7a4770eada2420d5f7c54edfa888fc8a&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
+			</a><br/>
+			Nico
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
+		<td>Repubblica di San Marino</td>
+		<td>985</td>
+		<td>1011</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
-		<td>12</td>
-		<td>971</td>
+		<td>11</td>
+		<td>948</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>14</td>
-		<td>726</td>
+		<td>13</td>
+		<td>720</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -200,8 +200,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@zalando </td>
 		<td><a href="https://twitter.com/nicorsm">nicorsm</a></td>
 		<td>San Marino</td>
-		<td>24</td>
-		<td>705</td>
+		<td>11</td>
+		<td>670</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
 		<td>160</td>
-		<td>475</td>
+		<td>496</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,11 +228,25 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>78</td>
-		<td>428</td>
+		<td>81</td>
+		<td>434</td>
 	</tr>
 	<tr>
 		<td>10</td>
+		<td>
+			<a href="https://github.com/thu105">
+				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
+			</a><br/>
+			Hein Moe Thu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
+		<td>93</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/jhawkwind">
 				<img src="https://avatars.githubusercontent.com/u/5790556?s=72&u=ef5b3adc87e5e3a064f90f7c059b740cbfb6c4e9&v=4" width="24" alt="Avatar of jhawkwind"> jhawkwind
@@ -246,7 +260,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>291</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/its-hmny">
 				<img src="https://avatars.githubusercontent.com/u/50141843?s=72&u=7f85d6364f92c36db4d755dcae377b75eeeacbb2&v=4" width="24" alt="Avatar of its-hmny"> its-hmny
@@ -256,22 +270,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Bkn301 </td>
 		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
 		<td>San Marino</td>
-		<td>172</td>
-		<td>270</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/thu105">
-				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
-			</a><br/>
-			Hein Moe Thu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>59</td>
-		<td>258</td>
+		<td>170</td>
+		<td>268</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,7 +285,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>15</td>
-		<td>210</td>
+		<td>213</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,7 +299,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>17</td>
-		<td>152</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -326,8 +326,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>76</td>
-		<td>76</td>
+		<td>74</td>
+		<td>74</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -340,8 +340,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>san marino</td>
-		<td>36</td>
-		<td>36</td>
+		<td>31</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -374,6 +374,20 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/v1rx">
+				<img src="https://avatars.githubusercontent.com/u/19215260?s=72&u=91d744a3d83443b0c84d9b02081b9b03454324c3&v=4" width="24" alt="Avatar of v1rx"> v1rx
+			</a><br/>
+			v1r
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>23</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/erubboli">
 				<img src="https://avatars.githubusercontent.com/u/24694?s=72&u=9ada526f83cf4e43b09de0221b4fb3c92ee603e7&v=4" width="24" alt="Avatar of erubboli"> erubboli
 			</a><br/>
@@ -383,20 +397,6 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/dn2k">dn2k</a></td>
 		<td>Dogana, San Marino</td>
 		<td>0</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/v1rx">
-				<img src="https://avatars.githubusercontent.com/u/19215260?s=72&u=91d744a3d83443b0c84d9b02081b9b03454324c3&v=4" width="24" alt="Avatar of v1rx"> v1rx
-			</a><br/>
-			v1r
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>22</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -424,8 +424,8 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Arpa Technologies </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>14</td>
-		<td>14</td>
+		<td>15</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -458,6 +458,20 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>26</td>
 		<td>
+			<a href="https://github.com/simonefalcini">
+				<img src="https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4" width="24" alt="Avatar of simonefalcini"> simonefalcini
+			</a><br/>
+			Simone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
 			<a href="https://github.com/GioeEng">
 				<img src="https://avatars.githubusercontent.com/u/87013463?s=72&u=d685efb41569ac9622b8e354cc20533b3ba01d97&v=4" width="24" alt="Avatar of GioeEng"> GioeEng
 			</a><br/>
@@ -468,20 +482,6 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Republic of San Marino</td>
 		<td>10</td>
 		<td>10</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/xStaqed">
-				<img src="https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4" width="24" alt="Avatar of xStaqed"> xStaqed
-			</a><br/>
-			xStaqed_
-		</td>
-		<td>School </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>8</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -514,12 +514,12 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/simonefalcini">
-				<img src="https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4" width="24" alt="Avatar of simonefalcini"> simonefalcini
+			<a href="https://github.com/xStaqed">
+				<img src="https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4" width="24" alt="Avatar of xStaqed"> xStaqed
 			</a><br/>
-			Simone
+			xStaqed_
 		</td>
-		<td>No Company</td>
+		<td>School </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>6</td>

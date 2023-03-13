@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/3/7 9:09 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/3/13 9:09 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -115,7 +115,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>191</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -185,19 +185,6 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/giacomobartoli">
-				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
-			</a><br/>
-			Giacomo Bartoli
-		</td>
-		<td>@ibm </td>
-		<td>No Twitter Username</td>
-		<td>San Marino, SMR</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
 			<a href="https://github.com/NeedleCoin">
 				<img src="https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4" width="24" alt="Avatar of NeedleCoin"> NeedleCoin
 			</a><br/>
@@ -206,6 +193,19 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Needlecoin </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/giacomobartoli">
+				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
+			</a><br/>
+			Giacomo Bartoli
+		</td>
+		<td>@ibm </td>
+		<td>No Twitter Username</td>
+		<td>San Marino, SMR</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -354,6 +354,19 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/jhawkwind">
+				<img src="https://avatars.githubusercontent.com/u/5790556?s=72&u=ef5b3adc87e5e3a064f90f7c059b740cbfb6c4e9&v=4" width="24" alt="Avatar of jhawkwind"> jhawkwind
+			</a><br/>
+			Kelvin Mok
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/agavss">
 				<img src="https://avatars.githubusercontent.com/u/9753429?s=72&v=4" width="24" alt="Avatar of agavss"> agavss
 			</a><br/>
@@ -365,7 +378,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/CastFX">
 				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4" width="24" alt="Avatar of CastFX"> CastFX
@@ -375,19 +388,6 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/jhawkwind">
-				<img src="https://avatars.githubusercontent.com/u/5790556?s=72&u=ef5b3adc87e5e3a064f90f7c059b740cbfb6c4e9&v=4" width="24" alt="Avatar of jhawkwind"> jhawkwind
-			</a><br/>
-			Kelvin Mok
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
 		<td>3</td>
 	</tr>
 	<tr>
