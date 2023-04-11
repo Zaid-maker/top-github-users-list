@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` and `private contributions` by users in Nepal on `2023/4/5 8:19 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` and `private contributions` by users in Nepal on `2023/4/11 2:35 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
