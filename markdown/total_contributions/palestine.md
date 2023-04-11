@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` and `private contributions` by users in Palestine on `2023/4/5 4:18 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` and `private contributions` by users in Palestine on `2023/4/11 10:15 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
