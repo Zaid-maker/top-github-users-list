@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/5/17 5:06 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/5/23 2:07 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -116,8 +116,8 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>161</td>
-		<td>169</td>
+		<td>164</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>10</td>
-		<td>140</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/arbaaz919">arbaaz919</a></td>
 		<td>Dubai</td>
 		<td>0</td>
-		<td>64</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>58</td>
-		<td>58</td>
+		<td>51</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -200,22 +200,22 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/baziza">baziza</a></td>
 		<td>Dubai United Arab Emirates</td>
-		<td>16</td>
-		<td>16</td>
+		<td>15</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/imluckyhussain">
-				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=f0a5f31de910ab711867bd1accc194b8cd58b118&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
+			<a href="https://github.com/Liyanasia">
+				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&u=3cc620f96ec6d3fad9d77da6586dcbeb7c91a492&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
 			</a><br/>
-			Mubaraque Hussain
+			Liyan Asia
 		</td>
-		<td>@emirates </td>
-		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>16</td>
-		<td>16</td>
+		<td>6</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -290,19 +290,33 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/Layanasia">
-				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&v=4" width="24" alt="Avatar of Layanasia"> Layanasia
+			<a href="https://github.com/imluckyhussain">
+				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=f0a5f31de910ab711867bd1accc194b8cd58b118&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
 			</a><br/>
-			Liyan asia
+			Mubaraque Hussain
 		</td>
-		<td>No Company</td>
+		<td>@emirates </td>
+		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
+		<td>Dubai</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/VAXTrack">
+				<img src="https://avatars.githubusercontent.com/u/131601003?s=72&v=4" width="24" alt="Avatar of VAXTrack"> VAXTrack
+			</a><br/>
+			Veda Fernandes
+		</td>
+		<td>Dubai International Academy </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/emiratesproperties">
 				<img src="https://avatars.githubusercontent.com/u/126855011?s=72&v=4" width="24" alt="Avatar of emiratesproperties"> emiratesproperties
@@ -316,7 +330,7 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/AscentEmirates">
 				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
@@ -330,7 +344,7 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/Bunnyangel789">
 				<img src="https://avatars.githubusercontent.com/u/124781445?s=72&v=4" width="24" alt="Avatar of Bunnyangel789"> Bunnyangel789
@@ -340,20 +354,6 @@ There are `46 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/VAXTrack">
-				<img src="https://avatars.githubusercontent.com/u/131601003?s=72&v=4" width="24" alt="Avatar of VAXTrack"> VAXTrack
-			</a><br/>
-			Veda Fernandes
-		</td>
-		<td>Dubai International Academy </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
