@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2024/4/2 4:11 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2024/4/8 10:12 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `137 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `140 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -116,8 +116,8 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>3606</td>
-		<td>5078</td>
+		<td>3625</td>
+		<td>5097</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>497</td>
-		<td>497</td>
+		<td>544</td>
+		<td>544</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -158,8 +158,8 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>280</td>
-		<td>280</td>
+		<td>320</td>
+		<td>320</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -752,6 +752,20 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>47</td>
 		<td>
+			<a href="https://github.com/4292OsbornGallup">
+				<img src="https://avatars.githubusercontent.com/u/161280722?s=72&v=4" width="24" alt="Avatar of 4292OsbornGallup"> 4292OsbornGallup
+			</a><br/>
+			Steven Perry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>7340 Chad Mall Suite 421 Banksstad / MD 08343</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
 			<a href="https://github.com/ceohaggar">
 				<img src="https://avatars.githubusercontent.com/u/67693733?s=72&u=a3e1271cefbec99cbf06b1f08e4a94af0d5014e8&v=4" width="24" alt="Avatar of ceohaggar"> ceohaggar
 			</a><br/>
@@ -764,7 +778,21 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/742282CashRobin">
+				<img src="https://avatars.githubusercontent.com/u/161666277?s=72&v=4" width="24" alt="Avatar of 742282CashRobin"> 742282CashRobin
+			</a><br/>
+			Thomas Jenkins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>0400 Chad Village Lake David / UT 18940</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/SigmaCodes69">
 				<img src="https://avatars.githubusercontent.com/u/129840038?s=72&u=0dfbfbfbb4b6266e3f1cffe26c2af37302721e7a&v=4" width="24" alt="Avatar of SigmaCodes69"> SigmaCodes69
@@ -778,7 +806,7 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/Chadanon">
 				<img src="https://avatars.githubusercontent.com/u/155825648?s=72&v=4" width="24" alt="Avatar of Chadanon"> Chadanon
@@ -792,7 +820,7 @@ There are `137 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/SAbakar">
 				<img src="https://avatars.githubusercontent.com/u/40408076?s=72&v=4" width="24" alt="Avatar of SAbakar"> SAbakar
