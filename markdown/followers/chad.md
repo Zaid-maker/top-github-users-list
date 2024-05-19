@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/5/13 3:11 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/5/19 9:10 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -406,19 +406,6 @@ There are `140 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/MrArchduke">
-				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
-			</a><br/>
-			MrArchduke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, USA</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/Zelixity">
 				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Zelixity"> Zelixity
 			</a><br/>
@@ -427,6 +414,19 @@ There are `140 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/MrArchduke">
+				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
+			</a><br/>
+			MrArchduke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, USA</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -653,19 +653,6 @@ There are `140 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/Jesuis2222">
-				<img src="https://avatars.githubusercontent.com/u/91439366?s=72&u=7de03306379123d7c53d31f700c017802437e68a&v=4" width="24" alt="Avatar of Jesuis2222"> Jesuis2222
-			</a><br/>
-			Mba Le Iran Ezechiel
-		</td>
-		<td>Void * </td>
-		<td><a href="https://twitter.com/IranEzechiel">IranEzechiel</a></td>
-		<td>N'Djamena, Tchad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
 			<a href="https://github.com/hissene">
 				<img src="https://avatars.githubusercontent.com/u/10146460?s=72&u=cd53ea27cfffbcc8dbb2b78fefb1bc86cbd652f4&v=4" width="24" alt="Avatar of hissene"> hissene
 			</a><br/>
@@ -674,6 +661,19 @@ There are `140 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/Jesuis2222">
+				<img src="https://avatars.githubusercontent.com/u/91439366?s=72&u=7de03306379123d7c53d31f700c017802437e68a&v=4" width="24" alt="Avatar of Jesuis2222"> Jesuis2222
+			</a><br/>
+			Mba Le Iran Ezechiel
+		</td>
+		<td>Void * </td>
+		<td><a href="https://twitter.com/IranEzechiel">IranEzechiel</a></td>
+		<td>N'Djamena, Tchad</td>
 		<td>1</td>
 	</tr>
 	<tr>
