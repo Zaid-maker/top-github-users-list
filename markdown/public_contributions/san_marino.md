@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2024/7/7 11:10 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2024/7/13 5:08 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -115,7 +115,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>678</td>
+		<td>669</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -198,6 +198,19 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/GBerardi">
+				<img src="https://avatars.githubusercontent.com/u/24650716?s=72&v=4" width="24" alt="Avatar of GBerardi"> GBerardi
+			</a><br/>
+			Gianluca
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/GlucaBerardi">GlucaBerardi</a></td>
+		<td>Milan / San Marino</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/schiaro98">
 				<img src="https://avatars.githubusercontent.com/u/23106953?s=72&u=f5d8ceaf22a435442e4c742870fa7dc37c9efd08&v=4" width="24" alt="Avatar of schiaro98"> schiaro98
 			</a><br/>
@@ -207,19 +220,6 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Ancona -> Cesena -> San Marino</td>
 		<td>41</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/GBerardi">
-				<img src="https://avatars.githubusercontent.com/u/24650716?s=72&v=4" width="24" alt="Avatar of GBerardi"> GBerardi
-			</a><br/>
-			Gianluca
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/GlucaBerardi">GlucaBerardi</a></td>
-		<td>Milan / San Marino</td>
-		<td>38</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -245,7 +245,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
-		<td>35</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,10 +271,23 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino Republic</td>
-		<td>22</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>14</td>
+		<td>
+			<a href="https://github.com/deBrian07">
+				<img src="https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4" width="24" alt="Avatar of deBrian07"> deBrian07
+			</a><br/>
+			Brian C.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/mcdado">
 				<img src="https://avatars.githubusercontent.com/u/898057?s=72&v=4" width="24" alt="Avatar of mcdado"> mcdado
@@ -287,7 +300,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/gennaris">
 				<img src="https://avatars.githubusercontent.com/u/43071148?s=72&u=7fc19d78df5fde7f1629cb744821bdedd684dd79&v=4" width="24" alt="Avatar of gennaris"> gennaris
@@ -300,7 +313,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/v1rx">
 				<img src="https://avatars.githubusercontent.com/u/19215260?s=72&u=abd2836faabe04aee25456fb1629328f4684d10b&v=4" width="24" alt="Avatar of v1rx"> v1rx
@@ -310,19 +323,6 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/deBrian07">
-				<img src="https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4" width="24" alt="Avatar of deBrian07"> deBrian07
-			</a><br/>
-			Brian C.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
 		<td>14</td>
 	</tr>
 	<tr>

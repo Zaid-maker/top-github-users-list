@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2024/7/7 11:10 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2024/7/13 5:08 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -445,19 +445,6 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/thu105">
-				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
-			</a><br/>
-			Hein Moe Thu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
 			<a href="https://github.com/GBerardi">
 				<img src="https://avatars.githubusercontent.com/u/24650716?s=72&v=4" width="24" alt="Avatar of GBerardi"> GBerardi
 			</a><br/>
@@ -466,6 +453,19 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/GlucaBerardi">GlucaBerardi</a></td>
 		<td>Milan / San Marino</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/thu105">
+				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
+			</a><br/>
+			Hein Moe Thu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
 		<td>3</td>
 	</tr>
 	<tr>
