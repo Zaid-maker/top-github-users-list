@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/8/16 11:18 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/8/16 12:26 PM UTC`.
 
-This repository contains users `138 countries` and `674 cities`. 
+This repository contains users `137 countries` and `666 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/Zaid-maker/top-github-users-list/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -954,23 +954,6 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Cork</code> 
 			<code>Waterford</code> 
 			<code>Limerick</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Zaid-maker/top-github-users-list/blob/main/markdown/public_contributions/israel.md">
-				Israel
-			</a>
-		</td>
-		<td>
-			<code>Jerusalem</code> 
-			<code>Tel-aviv</code> 
-			<code>Haifa</code> 
-			<code>Lod</code> 
-			<code>Be'er-sheva</code> 
-			<code>Ashkelon</code> 
-			<code>Bat-yam</code> 
-			<code>Netanya</code> 
 		</td>
 	</tr>
 	<tr>
