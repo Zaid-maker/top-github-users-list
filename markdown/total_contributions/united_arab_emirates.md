@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/10/17 3:11 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/10/23 2:12 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `137 countries` and `666 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `70 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `71 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -116,8 +116,8 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>6</td>
-		<td>93</td>
+		<td>3</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -159,7 +159,7 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>0</td>
-		<td>47</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -318,6 +318,20 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>16</td>
 		<td>
+			<a href="https://github.com/emiratesinside">
+				<img src="https://avatars.githubusercontent.com/u/185509340?s=72&u=df5e057c4eeed0ccc8cd80b30ab5a2e5fc83e0f3&v=4" width="24" alt="Avatar of emiratesinside"> emiratesinside
+			</a><br/>
+			Emirates inside
+		</td>
+		<td>Emirates </td>
+		<td>No Twitter Username</td>
+		<td>dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
 			<a href="https://github.com/Emiratesvisaonline-01">
 				<img src="https://avatars.githubusercontent.com/u/181950506?s=72&v=4" width="24" alt="Avatar of Emiratesvisaonline-01"> Emiratesvisaonline-01
 			</a><br/>
@@ -330,7 +344,7 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/S495290">
 				<img src="https://avatars.githubusercontent.com/u/149684471?s=72&u=eced7041acfa72e19991933d15739f8c2918b05b&v=4" width="24" alt="Avatar of S495290"> S495290
@@ -344,7 +358,7 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/vanderhall3888">
 				<img src="https://avatars.githubusercontent.com/u/168061714?s=72&u=776bc5dce737371984c985142e3e1aca861e8324&v=4" width="24" alt="Avatar of vanderhall3888"> vanderhall3888
@@ -358,91 +372,7 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/newworldhorizonuae">
-				<img src="https://avatars.githubusercontent.com/u/149070137?s=72&u=d1509260687adcbce52b80148d2109bd6a8feabe&v=4" width="24" alt="Avatar of newworldhorizonuae"> newworldhorizonuae
-			</a><br/>
-			newworld horizon
-		</td>
-		<td>New World Horizon </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>20</td>
-		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/botanicaloungesocial">
-				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
-			</a><br/>
-			The Botanical Lounge
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Shop G-20, Avenue Mall, Al Ain St, Nad Al Shiba 2, Dubai, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/Dralirashidalnumaimi">
-				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
-			</a><br/>
-			Dr. Ali Rashid AL Nuaimi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/unitedmoversdubai">
-				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
-			</a><br/>
-			Office Movers in Dubai
-		</td>
-		<td>United Movers Dubai </td>
-		<td>No Twitter Username</td>
-		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/FloorCenter">
-				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
-			</a><br/>
-			Floor Center
-		</td>
-		<td>Floorcenter </td>
-		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
-		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a href="https://github.com/dubaimonthlycarrental">
 				<img src="https://avatars.githubusercontent.com/u/184687967?s=72&v=4" width="24" alt="Avatar of dubaimonthlycarrental"> dubaimonthlycarrental
@@ -456,21 +386,77 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>21</td>
 		<td>
-			<a href="https://github.com/azerarentacar">
-				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
 			</a><br/>
-			Azera Rent A Car 
+			Aqua Experts Water Treatment
 		</td>
-		<td>Azera Rent A Car<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/botanicaloungesocial">
+				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
+			</a><br/>
+			The Botanical Lounge
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Shop G-20, Avenue Mall, Al Ain St, Nad Al Shiba 2, Dubai, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/Dralirashidalnumaimi">
+				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
+			</a><br/>
+			Dr. Ali Rashid AL Nuaimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/unitedmoversdubai">
+				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
+			</a><br/>
+			Office Movers in Dubai
+		</td>
+		<td>United Movers Dubai </td>
+		<td>No Twitter Username</td>
+		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/newworldhorizonuae">
+				<img src="https://avatars.githubusercontent.com/u/149070137?s=72&u=d1509260687adcbce52b80148d2109bd6a8feabe&v=4" width="24" alt="Avatar of newworldhorizonuae"> newworldhorizonuae
+			</a><br/>
+			newworld horizon
+		</td>
+		<td>New World Horizon </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/goldrateindubai">
 				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
@@ -480,6 +466,20 @@ There are `70 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Gold Rate In Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/azerarentacar">
+				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
+			</a><br/>
+			Azera Rent A Car 
+		</td>
+		<td>Azera Rent A Car<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
