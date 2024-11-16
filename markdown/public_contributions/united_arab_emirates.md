@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2024/11/10 12:19 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2024/11/16 2:10 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `137 countries` and `666 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `71 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `72 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>53</td>
+		<td>54</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -237,19 +237,6 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/emiratesindustrialfiltersco">
-				<img src="https://avatars.githubusercontent.com/u/182629277?s=72&v=4" width="24" alt="Avatar of emiratesindustrialfiltersco"> emiratesindustrialfiltersco
-			</a><br/>
-			EMIRATES INDUSTRIAL FILTERS CO.
-		</td>
-		<td>Emirates Industrial Filters Co.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Emirates Industrial Filters Building, Shed #3, 66 Street, New Industrial Area, Ajman, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/emiratesvisaonli">
 				<img src="https://avatars.githubusercontent.com/u/161119294?s=72&v=4" width="24" alt="Avatar of emiratesvisaonli"> emiratesvisaonli
 			</a><br/>
@@ -258,6 +245,19 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EmirateseVisa01">EmirateseVisa01</a></td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/emiratesindustrialfiltersco">
+				<img src="https://avatars.githubusercontent.com/u/182629277?s=72&v=4" width="24" alt="Avatar of emiratesindustrialfiltersco"> emiratesindustrialfiltersco
+			</a><br/>
+			EMIRATES INDUSTRIAL FILTERS CO.
+		</td>
+		<td>Emirates Industrial Filters Co.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Emirates Industrial Filters Building, Shed #3, 66 Street, New Industrial Area, Ajman, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -367,19 +367,6 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/azerarentacar">
-				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
-			</a><br/>
-			Azera Rent A Car 
-		</td>
-		<td>Azera Rent A Car<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/goldrateindubai">
 				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
 			</a><br/>
@@ -388,6 +375,32 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Gold Rate In Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/wismarine">
+				<img src="https://avatars.githubusercontent.com/u/188549796?s=72&v=4" width="24" alt="Avatar of wismarine"> wismarine
+			</a><br/>
+			Wismar Heavy Equipment Trading L.L.C
+		</td>
+		<td>Wismar Heavy Equipment Trading<br/>L.l.c<br/></td>
+		<td>No Twitter Username</td>
+		<td>PO Box: 23909 Sharjah, UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/azerarentacar">
+				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
+			</a><br/>
+			Azera Rent A Car 
+		</td>
+		<td>Azera Rent A Car<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 </table>

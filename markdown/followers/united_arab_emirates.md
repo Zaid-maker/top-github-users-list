@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2024/11/10 12:19 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2024/11/16 2:10 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `137 countries` and `666 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `71 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `72 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -141,7 +141,7 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Crown Prince Of Dubai<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,6 +159,19 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>5</td>
 		<td>
+			<a href="https://github.com/umar4sap">
+				<img src="https://avatars.githubusercontent.com/u/10072811?s=72&u=a738b24a09ae40b7d5efdffd912e8cb56afe6cd6&v=4" width="24" alt="Avatar of umar4sap"> umar4sap
+			</a><br/>
+			Mohammad Umar
+		</td>
+		<td>@emirates </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
 			<a href="https://github.com/MehdiDissem">
 				<img src="https://avatars.githubusercontent.com/u/50797767?s=72&u=99a2d310d71326f79cf447698cd191b4804fcc22&v=4" width="24" alt="Avatar of MehdiDissem"> MehdiDissem
 			</a><br/>
@@ -168,19 +181,6 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>10</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/umar4sap">
-				<img src="https://avatars.githubusercontent.com/u/10072811?s=72&u=a738b24a09ae40b7d5efdffd912e8cb56afe6cd6&v=4" width="24" alt="Avatar of umar4sap"> umar4sap
-			</a><br/>
-			Mohammad Umar
-		</td>
-		<td>@emirates </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>9</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -367,19 +367,6 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/nabeelshah96">
-				<img src="https://avatars.githubusercontent.com/u/21284713?s=72&u=dc86b3932148950c809c5a21b361073bd1947b01&v=4" width="24" alt="Avatar of nabeelshah96"> nabeelshah96
-			</a><br/>
-			Nabeel Shah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/ShuaibAshroff">
 				<img src="https://avatars.githubusercontent.com/u/34267820?s=72&u=1d69e910fe86fddda26f55c5ce5f2960a063bddc&v=4" width="24" alt="Avatar of ShuaibAshroff"> ShuaibAshroff
 			</a><br/>
@@ -388,6 +375,19 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Airlines It </td>
 		<td>No Twitter Username</td>
 		<td>Dubai - UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/nabeelshah96">
+				<img src="https://avatars.githubusercontent.com/u/21284713?s=72&u=dc86b3932148950c809c5a21b361073bd1947b01&v=4" width="24" alt="Avatar of nabeelshah96"> nabeelshah96
+			</a><br/>
+			Nabeel Shah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
