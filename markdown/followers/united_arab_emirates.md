@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2024/11/22 1:22 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2024/11/28 3:13 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `137 countries` and `666 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
-There are `72 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `74 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -128,7 +128,7 @@ There are `72 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirats </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>20</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -167,7 +167,7 @@ There are `72 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `72 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>10</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -341,19 +341,6 @@ There are `72 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/factscomputersoftware">
-				<img src="https://avatars.githubusercontent.com/u/17669270?s=72&u=c33259a352b9098d8fa19fcf09cc85cebba01dfd&v=4" width="24" alt="Avatar of factscomputersoftware"> factscomputersoftware
-			</a><br/>
-			FACTS Computer Software House
-		</td>
-		<td>Facts Computer Software House<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/Imanelwan">
 				<img src="https://avatars.githubusercontent.com/u/82947426?s=72&v=4" width="24" alt="Avatar of Imanelwan"> Imanelwan
 			</a><br/>
@@ -362,6 +349,19 @@ There are `72 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Al Iman For Social<br/>Media<br/>Services<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Sharjah uae </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/factscomputersoftware">
+				<img src="https://avatars.githubusercontent.com/u/17669270?s=72&u=c33259a352b9098d8fa19fcf09cc85cebba01dfd&v=4" width="24" alt="Avatar of factscomputersoftware"> factscomputersoftware
+			</a><br/>
+			FACTS Computer Software House
+		</td>
+		<td>Facts Computer Software House<br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
