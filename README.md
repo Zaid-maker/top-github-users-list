@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/12/3 7:20 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2025/3/18 8:22 PM UTC`.
 
-This repository contains users `137 countries` and `666 cities`. 
+This repository contains users `137 countries` and `668 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/Zaid-maker/top-github-users-list/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -101,11 +101,13 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Kabul</code> 
 			<code>Kandahar</code> 
 			<code>Herat</code> 
+			<code>Mazar-i-sharif</code> 
+			<code>Jalalabad</code> 
 			<code>Kunduz</code> 
-			<code>Lashkargah</code> 
 			<code>Ghazni</code> 
-			<code>Khost</code> 
-			<code>Zaranj</code> 
+			<code>Lashkar Gah</code> 
+			<code>Sheberghan</code> 
+			<code>Taloqan</code> 
 		</td>
 	</tr>
 	<tr>
