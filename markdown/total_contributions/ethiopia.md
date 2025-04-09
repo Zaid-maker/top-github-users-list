@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` and `private contributions` by users in Ethiopia on `2025/4/3 10:20 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` and `private contributions` by users in Ethiopia on `2025/4/9 10:20 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `137 countries` and `668 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
