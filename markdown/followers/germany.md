@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `number of followers` of users in Germany on `2025/5/10 9:23 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `number of followers` of users in Germany on `2025/5/16 1:39 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
-There are `137 countries` and `668 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
+There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
 There are `917 users`  in Germany. You need at least `327 followers` to be on this list.
 
