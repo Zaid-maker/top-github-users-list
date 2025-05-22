@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg" alt="Congo">
 </a>
 
-The `number of followers` of users in Congo on `2025/5/15 8:22 PM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
+The `number of followers` of users in Congo on `2025/5/22 1:07 AM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
 
-There are `137 countries` and `668 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
+There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
 There are `730 users`  in Congo. You need at least `0 followers` to be on this list.
 
