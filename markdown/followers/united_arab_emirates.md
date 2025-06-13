@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/6/7 4:15 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/6/13 10:13 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -128,7 +128,7 @@ There are `81 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>47</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,10 +154,23 @@ There are `81 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Crown Prince Of Dubai<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>21</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>5</td>
+		<td>
+			<a href="https://github.com/MehdiDissem">
+				<img src="https://avatars.githubusercontent.com/u/50797767?s=72&u=99a2d310d71326f79cf447698cd191b4804fcc22&v=4" width="24" alt="Avatar of MehdiDissem"> MehdiDissem
+			</a><br/>
+			Mehdi Dissem
+		</td>
+		<td>Datapatrol </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/Ebrahim-Mostafa">
 				<img src="https://avatars.githubusercontent.com/u/57369953?s=72&u=328b2c7669511e08745f00c93ed496c1f9e4150c&v=4" width="24" alt="Avatar of Ebrahim-Mostafa"> Ebrahim-Mostafa
@@ -168,19 +181,6 @@ There are `81 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/baziza">baziza</a></td>
 		<td>Dubai United Arab Emirates</td>
 		<td>14</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/MehdiDissem">
-				<img src="https://avatars.githubusercontent.com/u/50797767?s=72&u=99a2d310d71326f79cf447698cd191b4804fcc22&v=4" width="24" alt="Avatar of MehdiDissem"> MehdiDissem
-			</a><br/>
-			Mehdi Dissem
-		</td>
-		<td>Datapatrol </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>13</td>
 	</tr>
 	<tr>
 		<td>7</td>
