@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2025/7/7 12:34 PM UTC`. This list contains users from `Palestine` and cities `East-jerusalem` `Gaza-city` `Hebron` `Nablus` `Ramallah` `Bethlehem` `Jericho` `Jenin` `Khan-yunis` `Rafah` `Tulkarem` `Qalqilya` `Tubas` `Salfit` `Deir-al-balah` `Jabalia` `Beit-lahia` `Beit-hanoun`.
+The `number of followers` of users in Palestine on `2025/7/13 7:20 PM UTC`. This list contains users from `Palestine` and cities `East-jerusalem` `Gaza-city` `Hebron` `Nablus` `Ramallah` `Bethlehem` `Jericho` `Jenin` `Khan-yunis` `Rafah` `Tulkarem` `Qalqilya` `Tubas` `Salfit` `Deir-al-balah` `Jabalia` `Beit-lahia` `Beit-hanoun`.
 
 There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
