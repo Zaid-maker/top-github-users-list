@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/7/27 7:11 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2025/8/3 3:46 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
@@ -117,7 +117,7 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai - UAE</td>
 		<td>0</td>
-		<td>156</td>
+		<td>159</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -276,6 +276,20 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/arslanflowersmart">
+				<img src="https://avatars.githubusercontent.com/u/221471657?s=72&v=4" width="24" alt="Avatar of arslanflowersmart"> arslanflowersmart
+			</a><br/>
+			Flowers Mart   
+		</td>
+		<td>Flowers Mart  <br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/faisalbehram">
 				<img src="https://avatars.githubusercontent.com/u/56580297?s=72&u=9c5a753b21e5588747e3255758c8f84e1314ded3&v=4" width="24" alt="Avatar of faisalbehram"> faisalbehram
 			</a><br/>
@@ -286,20 +300,6 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Sharjah UAE</td>
 		<td>6</td>
 		<td>6</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/arslanflowersmart">
-				<img src="https://avatars.githubusercontent.com/u/221471657?s=72&v=4" width="24" alt="Avatar of arslanflowersmart"> arslanflowersmart
-			</a><br/>
-			Flowers Mart   
-		</td>
-		<td>Flowers Mart  <br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>5</td>
-		<td>5</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -430,20 +430,6 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/unitedmoversdubai">
-				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
-			</a><br/>
-			Office Movers in Dubai
-		</td>
-		<td>United Movers Dubai </td>
-		<td>No Twitter Username</td>
-		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/TulparGlobalTaxation">
 				<img src="https://avatars.githubusercontent.com/u/210654593?s=72&v=4" width="24" alt="Avatar of TulparGlobalTaxation"> TulparGlobalTaxation
 			</a><br/>
@@ -452,6 +438,20 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Tulpar Global Taxation </td>
 		<td><a href="https://twitter.com/home">home</a></td>
 		<td>Dubai, Business Bay, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/unitedmoversdubai">
+				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
+			</a><br/>
+			Office Movers in Dubai
+		</td>
+		<td>United Movers Dubai </td>
+		<td>No Twitter Username</td>
+		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -528,14 +528,14 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/zainloungedubai">
-				<img src="https://avatars.githubusercontent.com/u/221667197?s=72&v=4" width="24" alt="Avatar of zainloungedubai"> zainloungedubai
+			<a href="https://github.com/Dralirashidalnumaimi">
+				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
 			</a><br/>
-			Zain Lounge
+			Dr. Ali Rashid AL Nuaimi
 		</td>
-		<td>Zain Lounge </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Jumeirah Emirates Towers Hotel - Sheikh Zayed Rd - Trade Centre - Trade Centre 2 - Dubai - United Arab Emirates</td>
+		<td>Dubai, UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -556,14 +556,14 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/Dralirashidalnumaimi">
-				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
+			<a href="https://github.com/zainloungedubai">
+				<img src="https://avatars.githubusercontent.com/u/221667197?s=72&v=4" width="24" alt="Avatar of zainloungedubai"> zainloungedubai
 			</a><br/>
-			Dr. Ali Rashid AL Nuaimi
+			Zain Lounge
 		</td>
-		<td>No Company</td>
+		<td>Zain Lounge </td>
 		<td>No Twitter Username</td>
-		<td>Dubai, UAE</td>
+		<td>Jumeirah Emirates Towers Hotel - Sheikh Zayed Rd - Trade Centre - Trade Centre 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -598,20 +598,6 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/quicktaxation">
-				<img src="https://avatars.githubusercontent.com/u/210894834?s=72&u=d645ff297f9f68f6209fd9484facb044d5067b7c&v=4" width="24" alt="Avatar of quicktaxation"> quicktaxation
-			</a><br/>
-			Quick Taxation - Tax Consultant in UAE
-		</td>
-		<td>@quick-taxation-tax-  </td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/fgwilsonuae">
 				<img src="https://avatars.githubusercontent.com/u/208389524?s=72&v=4" width="24" alt="Avatar of fgwilsonuae"> fgwilsonuae
 			</a><br/>
@@ -620,6 +606,20 @@ There are `89 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Fg Wilson Engineering Fze<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai,UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/quicktaxation">
+				<img src="https://avatars.githubusercontent.com/u/210894834?s=72&u=d645ff297f9f68f6209fd9484facb044d5067b7c&v=4" width="24" alt="Avatar of quicktaxation"> quicktaxation
+			</a><br/>
+			Quick Taxation - Tax Consultant in UAE
+		</td>
+		<td>@quick-taxation-tax-  </td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
