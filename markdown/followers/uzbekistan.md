@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `number of followers` of users in Uzbekistan on `2025/7/27 11:23 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `number of followers` of users in Uzbekistan on `2025/8/3 7:23 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
