@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` by users in United Kingdom on `2025/8/3 4:52 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` by users in United Kingdom on `2025/8/9 10:19 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `137 countries` and `681 cities` can be found [here](https://github.com/Zaid-maker/top-github-users-list).
 
